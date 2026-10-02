@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Sai Ashrith
 
-<!--
-**SaiAshrith31/SaiAshrith31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech IT Student | Web Developer | Cloud Learner
 
-Here are some ideas to get you started:
+I'm a B.Tech Information Technology student interested in building web applications and learning cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 B.Tech – Information Technology
+- 💻 Interested in Web Development
+- ☁️ Learning Cloud Computing
+- 🌱 Currently improving my Java, DSA and Git/GitHub skills
+- 📚 Preparing for technical placements
+
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- Django
+- SQL
+- Git & GitHub
+- Cloud Fundamentals
+
+## 📌 Projects
+
+### Online Complaint & Support Ticket System
+A Django-based web application for managing complaints and support tickets.
+
+### Personal Portfolio Website
+A responsive portfolio website built using HTML, CSS and JavaScript.
+
+### Placement Preparation Application
+A web application designed to help students prepare for placements.
+
+## 🎯 Current Goal
+
+Building practical projects and improving my technical skills for software development opportunities.
+
+---
+
+⭐ Thanks for visiting my profile!
